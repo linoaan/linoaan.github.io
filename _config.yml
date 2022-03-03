@@ -1,2 +1,3 @@
 name: Lino AA Notarantonio
 	markdown: kramdown
+	permalink: /blog/:2022/:02/:10/:lino-site-launched
